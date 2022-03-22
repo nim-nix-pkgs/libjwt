@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libjwt-master.flake = false;
+  inputs.src-libjwt-master.ref   = "refs/heads/master";
   inputs.src-libjwt-master.owner = "nimscale";
-  inputs.src-libjwt-master.ref   = "master";
   inputs.src-libjwt-master.repo  = "nim-libjwt";
   inputs.src-libjwt-master.type  = "github";
   
