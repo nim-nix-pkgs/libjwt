@@ -11,6 +11,7 @@
   inputs.src-libjwt-master.ref   = "refs/heads/master";
   inputs.src-libjwt-master.owner = "nimscale";
   inputs.src-libjwt-master.repo  = "nim-libjwt";
+  inputs.src-libjwt-master.dir   = "";
   inputs.src-libjwt-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
