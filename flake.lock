@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696452,
-        "narHash": "sha256-1GHqk+u8/2XnUY4umnhEas0bLjYLOOAPp3NLpnIdxyU=",
+        "lastModified": 1653701985,
+        "narHash": "sha256-8SQ325u84eS7fCajAlfr0BCC96hc7sgytnSmPWVmrHk=",
         "owner": "nim-nix-pkgs",
         "repo": "libjwt",
-        "rev": "722cf4f9bd483334e5b25ec42b392f1c0e2c3d78",
+        "rev": "64f6d2ea33120311354c715b60d37c33b7fad2d4",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
