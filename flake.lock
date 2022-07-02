@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656297820,
-        "narHash": "sha256-iy3KyHVio7x4HHkJHX2qwZBHaC35yxIKDpS/D4yQZG0=",
+        "lastModified": 1656300987,
+        "narHash": "sha256-rtOJEVlHS7DZp96AE59WxtV81GALj9x6NYdmqv00E2g=",
         "owner": "nim-nix-pkgs",
         "repo": "libjwt",
-        "rev": "dee8f2bf4557a8099949701b7125149086246707",
+        "rev": "20a7c39c8de3e3e33419b7e2762309ca6c75ac6a",
         "type": "github"
       },
       "original": {
